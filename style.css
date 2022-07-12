@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(100, 100, 100);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+    text-align: center;
+    color: white;
+}
+
+section {
+    background-color: white;
+    margin: auto;
+    width: 500px;
+    border-radius: 20px;
+    padding: 30px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.404);
+}
+
+#lista {
+    width: 150px;
+}
